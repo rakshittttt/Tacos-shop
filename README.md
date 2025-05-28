@@ -1,5 +1,5 @@
 # Tacos-shop
-<h1>Welcome to my firts project</h1>
+<h1>Welcome to my first project</h1>
 <p>The Taco Shop Website is a personal front-end project designed to practice and showcase my web development skills. It features a clean, modern layout for a fictional taco restaurant, built entirely with HTML, CSS, and JavaScript.
 
 🎯 Purpose
