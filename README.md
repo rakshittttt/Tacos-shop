@@ -26,4 +26,4 @@ JavaScript
 # Some Screenshots 
 ![Menu](screenshots/Menu.png)
 ![Opening Hours](screenshots/Hours.png)
-![Contact Form](screenshots/Contact.png)
+![Contact Form](screenshots/contacts.png)
