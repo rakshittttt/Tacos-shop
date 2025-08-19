@@ -24,6 +24,9 @@ CSS <br>
 JavaScript
 
 # Some Screenshots 
-![Menu](screenshots/Menu.png)
-![Opening Hours](screenshots/Hours.png)
+<p>OUR MENU</p>
+![Menu](screenshots/Menu.png)<br>
+<p>Opening Hours</p>
+![Opening Hours](screenshots/Hours.png)<br>
+<p>Contact form</p>
 ![Contact Form](screenshots/contacts.png)
