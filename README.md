@@ -19,11 +19,11 @@ Simple, intuitive navigation
 
 
 # 🔧 Tech Stack
-HTML
-CSS 
+HTML<br>
+CSS <br>
 JavaScript
 
 # Some Screenshots 
-![Menu](screenshots/Screenshot(269).png)
-![Opening Hours](screenshots/Screenshot(271).png)
-![Contact Form](screenshots/Screenshot(272).png)
+![Menu](screenshots/Screenshot (269).png)
+![Opening Hours](screenshots/Screenshot (271).png)
+![Contact Form](screenshots/Screenshot (272).png)
